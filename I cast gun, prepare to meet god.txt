@@ -5,3 +5,4 @@ Components: M(gun)
 
 You shoot a bish. Deal 99% max HP damage. 
 If the target is a little bitch, they die and can't be revived.
+All creatures (including you) within 500 miles takes 68d10 thunder damage
